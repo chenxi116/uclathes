@@ -1,7 +1,7 @@
 
 uclathes
 ------------
-2012/05/02, release 2.0
+2016/06/02, release 2.1
 
 
 WHAT IS UCLATHES?
@@ -14,6 +14,11 @@ Jose Hales-Garcia.
 
 Several theses and dissertations have been approved based on this
 style package.
+
+WHAT IS NEW WITH UCLATHES 2.1?
+------------------------------
+The 2.0 version did not pass graduate division (Spring 2016) because
+the margins were too big.
 
 WHAT IS NEW WITH UCLATHES 2.0?
 ------------------------------
